@@ -7,7 +7,6 @@ import { program } from 'commander';
 import { execa } from 'execa';
 import ora from 'ora';
 import chalk from 'chalk';
-import inquirer from 'inquirer';
 import fs from 'fs';
 import path from 'path';
 import open from 'open';
